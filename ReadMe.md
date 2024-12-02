@@ -11,9 +11,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Elcapitanoe&icon=2&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 Paypal
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/domi0299) 
-
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
