@@ -1,5 +1,15 @@
 ### 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elcapitanoe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+<a href="https://github.com/Elcapitanoe">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Elcapitanoe&theme=dark" />
+</a>
+<a href="https://github.com/Elcapitanoe">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Elcapitanoe&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</a>
+<hr />
+<a href="https://github.com/Elcapitanoe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Elcapitanoe&repo=Komodo-Build-Prop&theme=dark" />
+</a>
+<a href="https://github.com/Elcapitanoe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Elcapitanoe&repo=Google-Drive-Index&theme=dark" />
+</a>
