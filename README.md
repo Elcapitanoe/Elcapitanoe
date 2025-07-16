@@ -3,4 +3,4 @@ Hi there!
 
 I’m learning my way through system building, automation, and self-hosting. I spend my free time tinkering with tools like Proxmox, Docker, and Linux. Most of what you’ll find here are experiments. Probably not useful, but definitely fun to build.
 
-<img src="https://komarev.com/ghpvc/?username=elcapitanoe&label=Profile%20views&color=7490ac&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=elcapitanoe&color=7490ac&style=flat" />
